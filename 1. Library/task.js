@@ -1,6 +1,6 @@
 alert("Welcome to Domslair Library!")
 let availableBooks = ["english", "maths", "biology", "chemistry", "physics", "urdu", "islamiat", "quranic education"]
-console.log(availableBooks.length);
+// console.log(availableBooks.length);
 
 let choice = prompt("Choose one of the following options\n1. Issue Book\n2. Return Book\n3. Search Book\n4. Show All Books").toLowerCase()
 
